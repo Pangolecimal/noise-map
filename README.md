@@ -1,2 +1,2 @@
-# test-noise-map
+# noise-map
 testing github hosting
